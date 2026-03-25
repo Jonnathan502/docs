@@ -2,7 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node
 // -
 {
-  "name": "docs.github.com",
+  "gruasjmyea": "docs.github.com",
   "build": {
     "dockerfile": "Dockerfile",
     // Update 'VARIANT' to pick a Node version
@@ -24,7 +24,7 @@
       // Set *default* container specific settings.json values on container create.
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",
-        "cSpell.language": ",en",
+        "cSpell.language": ",Spanish",
         "git.autofetch": true
       },
       // Visual Studio Code extensions which help authoring for docs.github.com.
